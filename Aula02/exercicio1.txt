@@ -1,0 +1,57 @@
+Garrafa 
+
+-Atibutos-
+--Cor = vermelha;
+--Capacidade = 1,250L;
+--Carga = 0
+--Aberta = false;
+
+-Métodos- 
+--Guardar agua
+--
+--
+--
+
+-Estado-
+--Fechada
+--Vermelha
+--Vazia
+
+
+Smartwatch
+
+-Atibutos-
+--Modelo = garmin instinct solar 1
+--Bateria = 27 dias
+--Carga da Bateria = 11 dias
+--Ligado = true
+
+-Métodos- 
+--Mostrar hora 
+--Marcar corrida 
+--Marcar batimento
+--Marcar gasto calorico
+
+-Estado-
+--Bateria de 11 dias
+--Ligado
+--Marcando hora
+--Calculando calorias
+
+
+Trabalho 
+
+-Atributos-
+--Tempo diario = 10 horas
+--Hora de almoco = 1 hora
+--Presencial = true
+-- 
+
+-Métodos-
+--Estudar
+--Programar
+--Resulver bugs
+
+-Estado-
+--Presencial
+--9 horas 
