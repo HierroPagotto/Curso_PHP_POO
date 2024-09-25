@@ -38,7 +38,7 @@
         public function Depositar($v){
             if($this->getStatus()){
                 $this->setSaldo($this->getSaldo() + $v);
-                echo "<p>Depósito de $v autorizado na conta de".$this->getDono().".</p>";
+                echo "<p>Depósito de $v autorizado na conta de ".$this->getDono().".</p>";
             }
             else{
                 echo "<p>Conta fechada</p>";
