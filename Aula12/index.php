@@ -41,6 +41,7 @@
             $c[0]->locomover();
             $c[0]->usarBolsa();
 
+            $c[1]->setCorPelo("Preto");
             $c[1]->emitirSom();
             $c[1]->abanarRabo();
 

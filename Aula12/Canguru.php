@@ -8,7 +8,5 @@
         function locomover(){
             echo "<p>Pulando</p>";
         }
-
-
     }    
 ?>
